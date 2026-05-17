@@ -8,11 +8,7 @@ This system analyzes patient healthcare data, predicts diseases using AI, and pr
 
 # 🚀 Live Demo
 
-🔗 Add your deployed Streamlit link here
-
-Example:
-
-https://your-app-name.streamlit.app
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://smart-healthcare-analytics-system.streamlit.app/)
 
 ---
 
